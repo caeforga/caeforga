@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3142lx74dd7chk6o4g6kqh3tox3u&count=3" alt="Spotify recently played"  />
+</div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/caeforga/caeforga/output/snake.svg" alt="Snake animation" />
