@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/caeforga/caeforga/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/caeforga/count.svg?" />
+  <h2>GitHub Profile Visitor Counter</h2>
+</div>
